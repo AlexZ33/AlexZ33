@@ -12,7 +12,7 @@
 
 **About Me**
 
-- 6+ year experience in Web development.
+- 7+ year experience in Web development.
 - Skilled in BDD & TDD, and familiar with testing libraries such as Jest, Cypress, Puppeteers.
 - Rich experience at React and Vuejs related technology stacks, such as React, Redux, Nextjs, Vue, Vuex, Nuxtjs, Webpack, Rollup,etc.
 - Have experience in Nodejs & Python Web .
