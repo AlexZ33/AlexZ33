@@ -10,6 +10,11 @@
 
 - 镜心的小树屋
 
+
+### 编程相关
+
+
+
 ### 读书笔记
 
 - [【读书笔记】繁荣的背后--解读现代世界的经济大增长](https://segmentfault.com/a/1190000022874792)
@@ -35,8 +40,9 @@
 
 
 ###  业务知识
+- [互联网运营: 付费广告投放](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137733&idx=1&sn=8ce31007f2211626711c7602df18b392&chksm=fe6939bec91eb0a8e228c81d5191dd1ed0c5329c05e01ff3fb0fce5dad0f4f8607c57bbca2ed&token=1856620651&lang=zh_CN#rd)
 
-[互联网广告：IAA游戏商业模式 ](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137832&idx=1&sn=d98cb0164b2bab38d54ebfaed12686b1&chksm=fe693953c91eb045dcdbd02f9caa2c65843bf32b02f3ea8eb9de1e0e41b9d5d2a160577a5d8f&token=1856620651&lang=zh_CN#rd)
+- [互联网广告：IAA游戏商业模式 ](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137832&idx=1&sn=d98cb0164b2bab38d54ebfaed12686b1&chksm=fe693953c91eb045dcdbd02f9caa2c65843bf32b02f3ea8eb9de1e0e41b9d5d2a160577a5d8f&token=1856620651&lang=zh_CN#rd)
 
 - [用户增长](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137750&idx=1&sn=060f8215957e8b20a350c55bf0302fde&chksm=fe6939adc91eb0bbdaea15b1ef12afa8f4f535392d78c494736ef6dea6550fbf80f1c69bbe89&token=1856620651&lang=zh_CN#rd)
 - 
