@@ -25,6 +25,34 @@
 - [【2016注会】审计知识点](https://www.zhihu.com/column/Treehouse)
 - [【2016注会】税法知识点](https://zhuanlan.zhihu.com/p/22175923)
 
+###　管理与个人精进
+
+- [管理者如何进行1on1&small talk](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137837&idx=1&sn=7934b8614ae4b5099ccb91f1942037ab&chksm=fe693956c91eb040dfe001d23c7223b332f5ff25e60a023e1e24fb7fe4da819dd1ea1de5f05a&token=1856620651&lang=zh_CN#rd)
+
+- [《领导梯队》读书笔记与观后感](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137828&idx=1&sn=23a4a8b92dc9e244244876753b6bca76&chksm=fe69395fc91eb0494a8138477b5a91372a9c30302cdf4c6d64965f5b3ddce199d560b14d01ae&token=1856620651&lang=zh_CN#rd)
+
+- [如何写年终总结](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137821&idx=1&sn=180479e6ebf54f394062d631ec5cde70&chksm=fe693966c91eb070c84c22cabf293e3e399e211f1a5e947bbdd565f025734e1c89b9c52f0be9&token=1856620651&lang=zh_CN#rd)
+
+- []
+
+###  业务知识
+
+[互联网广告：IAA游戏商业模式 ](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137832&idx=1&sn=d98cb0164b2bab38d54ebfaed12686b1&chksm=fe693953c91eb045dcdbd02f9caa2c65843bf32b02f3ea8eb9de1e0e41b9d5d2a160577a5d8f&token=1856620651&lang=zh_CN#rd)
+
+- [用户增长](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137750&idx=1&sn=060f8215957e8b20a350c55bf0302fde&chksm=fe6939adc91eb0bbdaea15b1ef12afa8f4f535392d78c494736ef6dea6550fbf80f1c69bbe89&token=1856620651&lang=zh_CN#rd)
+- 
+- [用户增长: HVA](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137744&idx=1&sn=4df7496a20e61b5769f81e151c51847d&chksm=fe6939abc91eb0bda3bf108418dc64e76653b1d2ea9e996d2b43d7d329a6cff223dad220b570&token=1856620651&lang=zh_CN#rd)
+
+- [互联网运营：用户留存分析之Cohort模型(六)](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137737&idx=1&sn=dcf82ffedf9ccaa7e934fb38788f1134&chksm=fe6939b2c91eb0a4a5a893b88c087911314e628310fa66bc1700e9bdd94afa3eb33d9a0a6c68&token=1856620651&lang=zh_CN#rd)
+
+- [互联网运营：构建增长模型(四)](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137737&idx=2&sn=ca9b64cf8dd6c08af22b7568a05e2455&chksm=fe6939b2c91eb0a46a187c759dd4356f51fd0b1063f0ab053e071b17444ff4e9ed0679ca4d23&token=1856620651&lang=zh_CN#rd)
+
+
+- [互联网运营：了解用户价值，快速做增长（三））](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137737&idx=3&sn=2f58eb0d3842bc396da6b3b797a415e0&chksm=fe6939b2c91eb0a45b3081af65aa217a74a07099516e74edfa4f4707bf52d9190be4b4932534&token=1856620651&lang=zh_CN#rd)
+
+- [互联网运营：用户增长主要工作(二)](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137737&idx=4&sn=1b259a21c0f6bea84b5a9138b9fe4a58&chksm=fe6939b2c91eb0a46bb3908bfbb58428a76adcd95eec724925142690f6ed525909d068837e4e&token=1856620651&lang=zh_CN#rd)
+
+- [互联网运营：用户增长学习笔记(一)] (https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137737&idx=5&sn=67ae7da5c4baf6b31d5a68b01ae9c7a9&chksm=fe6939b2c91eb0a4d33a8281d0ca03a3b30161a3bd518391fa0e0d6008711bd53972508a325e&token=1856620651&lang=zh_CN#rd)
 
 ###  个人诗作
 
