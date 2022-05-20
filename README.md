@@ -10,6 +10,13 @@
 
 - 镜心的小树屋
 
+### 读书笔记
+
+- [【读书笔记】繁荣的背后--解读现代世界的经济大增长](https://segmentfault.com/a/1190000022874792)
+
+- [笔记 | 如何读历史？](https://zhuanlan.zhihu.com/p/338651161)
+- [笔记 | 如何阅读哲学](https://zhuanlan.zhihu.com/p/338571506)
+
 **About Me**
 
 - 7+ year experience in Web development.
