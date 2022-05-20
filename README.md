@@ -13,9 +13,26 @@
 ### 读书笔记
 
 - [【读书笔记】繁荣的背后--解读现代世界的经济大增长](https://segmentfault.com/a/1190000022874792)
+- [《数据之巅》读后感与狂想!](https://zhuanlan.zhihu.com/p/23368515)
 
 - [笔记 | 如何读历史？](https://zhuanlan.zhihu.com/p/338651161)
 - [笔记 | 如何阅读哲学](https://zhuanlan.zhihu.com/p/338571506)
+- [【读书笔记】读《薛兆丰经济学讲义》杂思](https://zhuanlan.zhihu.com/p/286373163)
+- [【读书笔记】《增长黑客》观后感](https://zhuanlan.zhihu.com/p/272754854)
+- [笔记 | 《故事工程--掌握成功写作的六大核心技能》](https://zhuanlan.zhihu.com/p/51205746)
+- [【笔记】历代经济变革得失](https://www.zhihu.com/column/Treehouse)
+- [【笔记】埃及通史](https://zhuanlan.zhihu.com/p/21338611)
+- [【2016注会】审计知识点](https://www.zhihu.com/column/Treehouse)
+- [【2016注会】税法知识点](https://zhuanlan.zhihu.com/p/22175923)
+
+
+###  个人诗作
+
+- [我听闻，你想做厉害的人？](https://zhuanlan.zhihu.com/p/28575134)
+
+### 个人文学文章
+
+- [人物 | 李清照有多伟大？](https://zhuanlan.zhihu.com/p/23590426)
 
 **About Me**
 
