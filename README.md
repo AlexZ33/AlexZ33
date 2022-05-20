@@ -13,8 +13,9 @@
 
 ### 编程相关
 
-[【柚子编程俱乐部】在 Golang 中查找变量类型的不同方法](https://zhuanlan.zhihu.com/p/501300715)
+- [【柚子编程俱乐部】在 Golang 中查找变量类型的不同方法](https://zhuanlan.zhihu.com/p/501300715)
 
+- [Golang panic用法](https://zhuanlan.zhihu.com/p/373653492)
 ### 读书笔记
 
 - [【读书笔记】繁荣的背后--解读现代世界的经济大增长](https://segmentfault.com/a/1190000022874792)
