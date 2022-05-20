@@ -25,7 +25,7 @@
 - [【2016注会】审计知识点](https://www.zhihu.com/column/Treehouse)
 - [【2016注会】税法知识点](https://zhuanlan.zhihu.com/p/22175923)
 
-###　管理与个人精进
+### 管理与个人精进
 
 - [管理者如何进行1on1&small talk](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137837&idx=1&sn=7934b8614ae4b5099ccb91f1942037ab&chksm=fe693956c91eb040dfe001d23c7223b332f5ff25e60a023e1e24fb7fe4da819dd1ea1de5f05a&token=1856620651&lang=zh_CN#rd)
 
@@ -33,7 +33,6 @@
 
 - [如何写年终总结](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137821&idx=1&sn=180479e6ebf54f394062d631ec5cde70&chksm=fe693966c91eb070c84c22cabf293e3e399e211f1a5e947bbdd565f025734e1c89b9c52f0be9&token=1856620651&lang=zh_CN#rd)
 
-- []
 
 ###  业务知识
 
@@ -52,7 +51,8 @@
 
 - [互联网运营：用户增长主要工作(二)](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137737&idx=4&sn=1b259a21c0f6bea84b5a9138b9fe4a58&chksm=fe6939b2c91eb0a46bb3908bfbb58428a76adcd95eec724925142690f6ed525909d068837e4e&token=1856620651&lang=zh_CN#rd)
 
-- [互联网运营：用户增长学习笔记(一)] (https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137737&idx=5&sn=67ae7da5c4baf6b31d5a68b01ae9c7a9&chksm=fe6939b2c91eb0a4d33a8281d0ca03a3b30161a3bd518391fa0e0d6008711bd53972508a325e&token=1856620651&lang=zh_CN#rd)
+- [互联网运营：用户增长学习笔记(一)](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137737&idx=5&sn=67ae7da5c4baf6b31d5a68b01ae9c7a9&chksm=fe6939b2c91eb0a4d33a8281d0ca03a3b30161a3bd518391fa0e0d6008711bd53972508a325e&token=1856620651&lang=zh_CN#rd)
+
 
 ###  个人诗作
 
