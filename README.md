@@ -13,6 +13,9 @@
 
 ### 编程相关
 
+#### 开发工具 & Devops
+[Git服务器搭建](https://zhuanlan.zhihu.com/p/427047013)
+
 #### 前端通天塔
 
 
@@ -28,6 +31,7 @@
 - [GVM管理golang版本](https://zhuanlan.zhihu.com/p/367756031)
 
 #### Java架构学习之路（基础、容器、并发、JVM、Spring、SpringBoot、SprintCloud、数据库、搜索引擎、系统）
+- [Java StringUtils.isBlank()](https://zhuanlan.zhihu.com/p/532253710)
 - 
 ### 读书笔记
 
@@ -86,6 +90,11 @@
 
 
 ### 医疗 & 药物 & 养生 
+
+- [selpercatinib (LOXO-292)--抑制RET重排的口服TKI](https://zhuanlan.zhihu.com/p/468240727)
+- [肺癌 EGFR基因突变](https://zhuanlan.zhihu.com/p/471325406)
+- [肺癌 RET 重排敏感](https://zhuanlan.zhihu.com/p/433485985)
+- []
  
 ### 运动 & 健康
 
