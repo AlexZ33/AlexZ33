@@ -29,11 +29,21 @@
 - [在 Golang 中查找变量类型的不同方法](https://zhuanlan.zhihu.com/p/543496771)
 - [golang中的iota](https://zhuanlan.zhihu.com/p/388227862)
 - [GVM管理golang版本](https://zhuanlan.zhihu.com/p/367756031)
+- [【容器技术】Windows Docker 安装](https://mp.weixin.qq.com/s/Q50xXgu1wrNDBWofb0RPTg)
+- 
 
 #### Java架构学习之路（基础、容器、并发、JVM、Spring、SpringBoot、SprintCloud、数据库、搜索引擎、系统）
 - [Java StringUtils.isBlank()](https://zhuanlan.zhihu.com/p/532253710)
 - [【Java基础】多态](https://zhuanlan.zhihu.com/p/101786869)
-- 
+- [Java 与Python中数据结构比较](https://zhuanlan.zhihu.com/p/422654858)
+
+#### linux学习与源码分析
+- [Linux 各目录的作用](https://zhuanlan.zhihu.com/p/422654168)
+- []
+
+#### 数学 & 数据分析 & 数据科学
+
+
 ### 读书笔记
 
 - [2019年已读书单总结](https://zhuanlan.zhihu.com/p/422665151)
@@ -41,6 +51,7 @@
 
 - [【读书笔记】繁荣的背后--解读现代世界的经济大增长](https://segmentfault.com/a/1190000022874792)
 - [《数据之巅》读后感与狂想!](https://zhuanlan.zhihu.com/p/23368515)
+- [【读书笔记】读《薛兆丰经济学讲义》杂思](https://zhuanlan.zhihu.com/p/286373163)
 
 - [笔记 | 如何读历史？](https://zhuanlan.zhihu.com/p/338651161)
 - [笔记 | 如何阅读哲学](https://zhuanlan.zhihu.com/p/338571506)
