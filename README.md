@@ -17,7 +17,9 @@
 [Git服务器搭建](https://zhuanlan.zhihu.com/p/427047013)
 
 #### 前端通天塔
-
+- [手写koa2](https://zhuanlan.zhihu.com/p/541215203)
+- [手写express](https://zhuanlan.zhihu.com/p/540372105)
+- []()
 
 #### Golang编程指北（go语言、中间件、消息队列、web、数据库、容器、云原生、微服务）
 
@@ -64,6 +66,8 @@
 - [Python批量修改文件名](https://zhuanlan.zhihu.com/p/367299550)
 - [Python发九宫格朋友圈](https://zhuanlan.zhihu.com/p/367627368)
 - [Python读取word文本并将中文翻译成拼音](https://zhuanlan.zhihu.com/p/368053324)
+- [Python实现绘制圣诞树](https://zhuanlan.zhihu.com/p/422666311)
+- [Python连接操作数据库](https://zhuanlan.zhihu.com/p/427043832)
 - [python语言风格](https://zhuanlan.zhihu.com/p/421844649)
 
 ##### 数据分析
@@ -71,12 +75,15 @@
 - [pygal数据可视化](https://zhuanlan.zhihu.com/p/421845313)
 
 - [Python进行Cohort分析(留存分析)](https://zhuanlan.zhihu.com/p/370493764)
-- []
+- [Python编程环境：Anaconda](https://zhuanlan.zhihu.com/p/422663805)
 
 ### 读书笔记
 
 - [2019年已读书单总结](https://zhuanlan.zhihu.com/p/422665151)
 - [2017读书计划](https://zhuanlan.zhihu.com/p/338648498)
+- [2018 年你读了哪些书？]()
+- [【书单】两性关系、亲密关系](https://zhuanlan.zhihu.com/p/264354680)
+- 
 
 - [【读书笔记】繁荣的背后--解读现代世界的经济大增长](https://segmentfault.com/a/1190000022874792)
 - [《数据之巅》读后感与狂想!](https://zhuanlan.zhihu.com/p/23368515)
@@ -131,14 +138,17 @@
 ### 个人文学文章
 
 - [人物 | 李清照有多伟大？](https://zhuanlan.zhihu.com/p/23590426)
+- [为什么汉传佛教普遍放弃了小乘?]()
 
 
-### 医疗 & 药物 & 养生 
+### 医疗 & 药物 & 养生
 
+- [普通感冒](https://zhuanlan.zhihu.com/p/269760238)
 - [selpercatinib (LOXO-292)--抑制RET重排的口服TKI](https://zhuanlan.zhihu.com/p/468240727)
 - [肺癌 EGFR基因突变](https://zhuanlan.zhihu.com/p/471325406)
 - [肺癌 RET 重排敏感](https://zhuanlan.zhihu.com/p/433485985)
-- []
+- [贝伐珠单抗](https://zhuanlan.zhihu.com/p/150091380)
+- []()
  
 ### 运动 & 健康
 
