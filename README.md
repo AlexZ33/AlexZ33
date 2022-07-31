@@ -30,7 +30,8 @@
 - [golang中的iota](https://zhuanlan.zhihu.com/p/388227862)
 - [GVM管理golang版本](https://zhuanlan.zhihu.com/p/367756031)
 - [【容器技术】Windows Docker 安装](https://mp.weixin.qq.com/s/Q50xXgu1wrNDBWofb0RPTg)
-- 
+- [「容器技术」Docker操作手册（一）](https://zhuanlan.zhihu.com/p/421853963)
+- []
 
 #### Java架构学习之路（基础、容器、并发、JVM、Spring、SpringBoot、SprintCloud、数据库、搜索引擎、系统）
 - [Java StringUtils.isBlank()](https://zhuanlan.zhihu.com/p/532253710)
@@ -41,8 +42,36 @@
 - [Linux 各目录的作用](https://zhuanlan.zhihu.com/p/422654168)
 - []
 
+#### 数据库
+- [MySQL数据类型: UNSIGNED](https://zhuanlan.zhihu.com/p/426230888)
+- [MySQL创建用户与授权](https://zhuanlan.zhihu.com/p/527056853)
+- [查看mysql用户权限](https://zhuanlan.zhihu.com/p/522621034)
+- 
+
 #### 数学 & 统计 & Python数据分析 & 数据科学
 
+##### [Python基础](https://www.zhihu.com/column/c_1422614016078794752)
+
+- [Python Lambda, map, filter, reduce](https://zhuanlan.zhihu.com/p/324250581)
+- [Python List manipulation](https://zhuanlan.zhihu.com/p/142578926)
+- 
+
+- [np.random.seed()函数]()
+- [Python可迭代对象&迭代器对象及其实现](https://zhuanlan.zhihu.com/p/421847493)
+- [Python图片转字符画](https://zhuanlan.zhihu.com/p/324250581)
+- [PyPDF2处理PDF文件](https://zhuanlan.zhihu.com/p/315752285)
+- [利用jieba进行中文分词制作词云](https://zhuanlan.zhihu.com/p/367034176)
+- [Python批量修改文件名](https://zhuanlan.zhihu.com/p/367299550)
+- [Python发九宫格朋友圈](https://zhuanlan.zhihu.com/p/367627368)
+- [Python读取word文本并将中文翻译成拼音](https://zhuanlan.zhihu.com/p/368053324)
+- [python语言风格](https://zhuanlan.zhihu.com/p/421844649)
+
+##### 数据分析
+
+- [pygal数据可视化](https://zhuanlan.zhihu.com/p/421845313)
+
+- [Python进行Cohort分析(留存分析)](https://zhuanlan.zhihu.com/p/370493764)
+- []
 
 ### 读书笔记
 
