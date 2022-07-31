@@ -32,8 +32,12 @@
 
 #### Java架构学习之路（基础、容器、并发、JVM、Spring、SpringBoot、SprintCloud、数据库、搜索引擎、系统）
 - [Java StringUtils.isBlank()](https://zhuanlan.zhihu.com/p/532253710)
+- [【Java基础】多态](https://zhuanlan.zhihu.com/p/101786869)
 - 
 ### 读书笔记
+
+- [2019年已读书单总结](https://zhuanlan.zhihu.com/p/422665151)
+- [2017读书计划](https://zhuanlan.zhihu.com/p/338648498)
 
 - [【读书笔记】繁荣的背后--解读现代世界的经济大增长](https://segmentfault.com/a/1190000022874792)
 - [《数据之巅》读后感与狂想!](https://zhuanlan.zhihu.com/p/23368515)
