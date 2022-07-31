@@ -19,6 +19,9 @@
 - [为什么 http.Client{} 以 & 为前缀？](https://zhuanlan.zhihu.com/p/547191507)
 - [Golang Map](https://zhuanlan.zhihu.com/p/543496771)
 - [在 Golang 中查找变量类型的不同方法](https://zhuanlan.zhihu.com/p/543496771)
+- [golang中的iota](https://zhuanlan.zhihu.com/p/388227862)
+- [GVM管理golang版本](https://zhuanlan.zhihu.com/p/367756031)
+- 
 ### 读书笔记
 
 - [【读书笔记】繁荣的背后--解读现代世界的经济大增长](https://segmentfault.com/a/1190000022874792)
