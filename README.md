@@ -79,6 +79,8 @@
 
 ### 读书笔记
 
+- [【读书计划】2020读书计划](https://zhuanlan.zhihu.com/p/101016344)
+
 - [2019年已读书单总结](https://zhuanlan.zhihu.com/p/422665151)
 - [2017读书计划](https://zhuanlan.zhihu.com/p/338648498)
 - [2018 年你读了哪些书？]()
@@ -98,6 +100,8 @@
 - [【笔记】埃及通史](https://zhuanlan.zhihu.com/p/21338611)
 - [【2016注会】审计知识点](https://www.zhihu.com/column/Treehouse)
 - [【2016注会】税法知识点](https://zhuanlan.zhihu.com/p/22175923)
+
+- [2019美国经济概览](https://zhuanlan.zhihu.com/p/90295035)
 
 ### 管理与个人精进
 
