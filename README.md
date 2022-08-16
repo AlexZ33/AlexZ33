@@ -54,6 +54,8 @@
 
 ##### [Python基础](https://www.zhihu.com/column/c_1422614016078794752)
 
+- [解决pip下载速度慢的问题](https://github.com/AlexZ33/Python_basic/issues/1)
+
 - [Python Lambda, map, filter, reduce](https://zhuanlan.zhihu.com/p/324250581)
 - [Python List manipulation](https://zhuanlan.zhihu.com/p/142578926)
 - [字典数据如何有序](https://github.com/AlexZ33/Python_basic/tree/main/%E5%AD%97%E5%85%B8%E6%95%B0%E6%8D%AE%E5%A6%82%E4%BD%95%E6%9C%89%E5%BA%8F)
