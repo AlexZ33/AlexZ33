@@ -30,6 +30,7 @@
 #### Golang编程指北（go语言、中间件、消息队列、web、数据库、容器、云原生、微服务）
 
 - [【柚子编程俱乐部】在 Golang 中查找变量类型的不同方法](https://zhuanlan.zhihu.com/p/501300715)
+- [Golang package atomic库](https://zhuanlan.zhihu.com/p/577391361)
 
 - [Golang panic用法](https://zhuanlan.zhihu.com/p/373653492)
 - [为什么 http.Client{} 以 & 为前缀？](https://zhuanlan.zhihu.com/p/547191507)
