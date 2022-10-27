@@ -22,6 +22,8 @@
 #### Web Security
 [Web安全防护books](https://zhuanlan.zhihu.com/p/575781380)
 
+[【Web安全】xss防护实践](https://segmentfault.com/a/1190000023086954)
+
 #### 开发工具 & Devops
 [Git服务器搭建](https://zhuanlan.zhihu.com/p/427047013)
 
