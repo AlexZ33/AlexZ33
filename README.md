@@ -26,6 +26,7 @@
 
 #### 开发工具 & Devops
 [Git服务器搭建](https://zhuanlan.zhihu.com/p/427047013)
+[git使用规范](https://segmentfault.com/a/1190000037783650)
 
 #### 前端通天塔
 - [手写koa2](https://zhuanlan.zhihu.com/p/541215203)
