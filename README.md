@@ -20,13 +20,13 @@
 [TLS详解](https://zhuanlan.zhihu.com/p/575773514)
 
 #### Web Security
-[Web安全防护books](https://zhuanlan.zhihu.com/p/575781380)
+- [Web安全防护books](https://zhuanlan.zhihu.com/p/575781380)
 
-[【Web安全】xss防护实践](https://segmentfault.com/a/1190000023086954)
+- [【Web安全】xss防护实践](https://segmentfault.com/a/1190000023086954)
 
 #### 开发工具 & Devops
-[Git服务器搭建](https://zhuanlan.zhihu.com/p/427047013)
-[git使用规范](https://segmentfault.com/a/1190000037783650)
+- [Git服务器搭建](https://zhuanlan.zhihu.com/p/427047013)
+- [git使用规范](https://segmentfault.com/a/1190000037783650)
 
 #### 前端通天塔
 - [手写koa2](https://zhuanlan.zhihu.com/p/541215203)
