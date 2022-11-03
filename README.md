@@ -36,6 +36,8 @@
 - [Nodejs学习记录: crypto模块](https://segmentfault.com/a/1190000022318731)
 #### Golang编程指北（go语言、中间件、消息队列、web、数据库、容器、云原生、微服务）
 
+- [golang访问数据库MySQL](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485717&idx=2&sn=fda312d087447900c35d24ce143c5a59&chksm=cf700d43f8078455818c4975c978b1e8a27daf93d952dd99a294323b472151db206b280317f6&token=328743535&lang=zh_CN#rd)
+
 - [【柚子编程俱乐部】在 Golang 中查找变量类型的不同方法](https://zhuanlan.zhihu.com/p/501300715)
 - [Golang package atomic库](https://zhuanlan.zhihu.com/p/577391361)
 
