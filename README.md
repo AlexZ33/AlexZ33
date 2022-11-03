@@ -13,12 +13,17 @@
 
 ### 编程相关
 
+#### 技术书推荐
+
+[值得一看的技术类书籍列表](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485220&idx=7&sn=a02367d65059bf4bf8299b56c40d8f22&chksm=cf700372f8078a640419b73dc283e49dc2ee6de2811780588feebc7c3f2d983de8d22745bc98&token=328743535&lang=zh_CN#rd)
+
 #### 计算机基础
 
 [【计算机基础】进程与线程](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485550&idx=1&sn=dfb6b0dca9bf2e466efadbb644257971&chksm=cf700c38f807852ef1999fc88454c8c5009518018c0f7b1c454a5e9e41eb9a38d0a120d8bef6&token=328743535&lang=zh_CN#rd)
 
 - [【计算机操作系统 】 内存管理和设备管理](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485277&idx=1&sn=a0341ddedec165dc124fef58c1632978&chksm=cf70030bf8078a1dff6625b302a241f8235226c2910ef49c4df9acf7dcb1ca7b7a6fab2d7441&token=328743535&lang=zh_CN#rd)
-- []
+- [【理解算机系统】Linux源码读懂文件I/O(一)](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485160&idx=2&sn=bf512d8fce917b9750e7fd88fb7644d6&chksm=cf7002bef8078ba8cc01485dab344e6b703e86f51f7c33988dfc1ac107f33e4302f6c9cc1b85&token=328743535&lang=zh_CN#rd)
+- 
 
 
 #### 算法
@@ -115,6 +120,9 @@
 
 - [Python进行Cohort分析(留存分析)](https://zhuanlan.zhihu.com/p/370493764)
 - [Python编程环境：Anaconda](https://zhuanlan.zhihu.com/p/422663805)
+
+##### 面经
+[Java开发面试故事，你能学习到很多经验](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485208&idx=1&sn=0306b0afca421d6087bf208495c0b35e&chksm=cf70034ef8078a589ac416c187295b56de56043e0857a56487f3a8fe260751dd334f5defa6cd&token=328743535&lang=zh_CN#rd)
 
 ### 读书笔记
 
