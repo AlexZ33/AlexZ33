@@ -17,6 +17,8 @@
 
 [【计算机基础】进程与线程](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485550&idx=1&sn=dfb6b0dca9bf2e466efadbb644257971&chksm=cf700c38f807852ef1999fc88454c8c5009518018c0f7b1c454a5e9e41eb9a38d0a120d8bef6&token=328743535&lang=zh_CN#rd)
 
+- [【计算机操作系统 】 内存管理和设备管理](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485277&idx=1&sn=a0341ddedec165dc124fef58c1632978&chksm=cf70030bf8078a1dff6625b302a241f8235226c2910ef49c4df9acf7dcb1ca7b7a6fab2d7441&token=328743535&lang=zh_CN#rd)
+- []
 
 
 #### 算法
@@ -37,6 +39,8 @@
 - [git使用规范](https://segmentfault.com/a/1190000037783650)
 
 #### 前端通天塔
+- [前端你需要学什么？ 国内前端团队的技术栈统计](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485296&idx=1&sn=03907796805e11027f1e8a2e7db29519&chksm=cf700326f8078a30d16d25c2238c30d47a5d34a8b84d3234bff6ce621ab3b5917f1000a05fbf&token=328743535&lang=zh_CN#rd)
+- [【10分钟教程】制作一个简单canvas小游戏](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485220&idx=1&sn=685c58e230c3c4e03e1c24a1bd247b2e&chksm=cf700372f8078a64806216350d679476b91cef3599142ccc7e8c314f50373105b4b6146ac859&token=328743535&lang=zh_CN#rd)
 - [手写koa2](https://zhuanlan.zhihu.com/p/541215203)
 - [手写express](https://zhuanlan.zhihu.com/p/540372105)
 - [Nodejs学习记录: crypto模块](https://segmentfault.com/a/1190000022318731)
@@ -60,6 +64,7 @@
 #### Java架构学习之路（基础、容器、并发、JVM、Spring、SpringBoot、SprintCloud、数据库、搜索引擎、系统）
 - [Java StringUtils.isBlank()]([https://zhuanlan.zhihu.com/p/532253710](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485648&idx=1&sn=dab97dde72708fe631d1d20971ebc8a2&chksm=cf700c86f80785902b885d94ee16b286133f9725b622bba7b9d1055237a181cda32f33aa58c0&token=328743535&lang=zh_CN#rd)
 - [【Java基础】多态](https://zhuanlan.zhihu.com/p/101786869)
+- [Java集合常见知识点(一)](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485320&idx=1&sn=fb37f946ea7493696c5524e43c2cb6b3&chksm=cf7003def8078ac813fb9ab34963044919bb82074291893ba8128488ec76e2fda345895efe72&token=328743535&lang=zh_CN#rd)
 - [Java集合常见知识点(二)](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485333&idx=1&sn=4a311bf4ce96931b28c432e7865b4dab&chksm=cf7003c3f8078ad507e9fb42502cb037e86a7d866c66e90162dc402bb776d9321174886baf04&token=328743535&lang=zh_CN#rd)
 - [Java 与Python中数据结构比较](https://zhuanlan.zhihu.com/p/422654858)
 
