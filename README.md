@@ -19,6 +19,8 @@
 #### 网络 
 [TLS详解](https://zhuanlan.zhihu.com/p/575773514)
 
+[http相关](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485717&idx=1&sn=d7483a02a1b5eb9ccb63caf1f9bff973&chksm=cf700d43f8078455669af02fa2ef43c2ba39cbc55514d2caed8ed2b4f72eefbecbbb2e22f2e8&token=328743535&lang=zh_CN#rd)
+
 #### Web Security
 - [Web安全防护books](https://zhuanlan.zhihu.com/p/575781380)
 
