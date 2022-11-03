@@ -60,6 +60,7 @@
 #### Java架构学习之路（基础、容器、并发、JVM、Spring、SpringBoot、SprintCloud、数据库、搜索引擎、系统）
 - [Java StringUtils.isBlank()]([https://zhuanlan.zhihu.com/p/532253710](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485648&idx=1&sn=dab97dde72708fe631d1d20971ebc8a2&chksm=cf700c86f80785902b885d94ee16b286133f9725b622bba7b9d1055237a181cda32f33aa58c0&token=328743535&lang=zh_CN#rd)
 - [【Java基础】多态](https://zhuanlan.zhihu.com/p/101786869)
+- [Java集合常见知识点(二)](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485333&idx=1&sn=4a311bf4ce96931b28c432e7865b4dab&chksm=cf7003c3f8078ad507e9fb42502cb037e86a7d866c66e90162dc402bb776d9321174886baf04&token=328743535&lang=zh_CN#rd)
 - [Java 与Python中数据结构比较](https://zhuanlan.zhihu.com/p/422654858)
 
 #### linux学习与源码分析
