@@ -13,6 +13,12 @@
 
 ### 编程相关
 
+#### 计算机基础
+
+[【计算机基础】进程与线程](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485550&idx=1&sn=dfb6b0dca9bf2e466efadbb644257971&chksm=cf700c38f807852ef1999fc88454c8c5009518018c0f7b1c454a5e9e41eb9a38d0a120d8bef6&token=328743535&lang=zh_CN#rd)
+
+
+
 #### 算法
 [数据结构与算法：图和图算法(一)](https://segmentfault.com/a/1190000010794621?_ea=229590291)
 
