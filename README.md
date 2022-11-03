@@ -186,6 +186,11 @@
  
 ### 运动 & 健康
 
+
+### 考研
+
+[踏浪而行 | 一位学姐关于备战考研与保研的心得](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485622&idx=1&sn=7915c5f3918cde1dfa5927ee61a76ace&chksm=cf700ce0f80785f6b459450f95c40f0512fe48b37105d2b2c00e65c1e1b2112d630ab425629c&token=328743535&lang=zh_CN#rd)
+
 **About Me**
 
 - 7+ year experience in Web development.
