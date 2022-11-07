@@ -6,6 +6,11 @@
 
 ### 微信公众号
 
+<p align="center">
+  <a href="">  <img border="0" src="https://user-images.githubusercontent.com/21971405/142834539-fcd1923b-5bb4-4dda-9ee6-d716fe3cf7c9.png">
+    </a>
+</p>
+
 - 柚子编程俱乐部
 
 - 镜心的小树屋
