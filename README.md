@@ -28,7 +28,8 @@
 
 - [【计算机操作系统 】 内存管理和设备管理](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485277&idx=1&sn=a0341ddedec165dc124fef58c1632978&chksm=cf70030bf8078a1dff6625b302a241f8235226c2910ef49c4df9acf7dcb1ca7b7a6fab2d7441&token=328743535&lang=zh_CN#rd)
 - [【理解算机系统】Linux源码读懂文件I/O(一)](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485160&idx=2&sn=bf512d8fce917b9750e7fd88fb7644d6&chksm=cf7002bef8078ba8cc01485dab344e6b703e86f51f7c33988dfc1ac107f33e4302f6c9cc1b85&token=328743535&lang=zh_CN#rd)
-- 
+- [编译器&解释器](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137842&idx=1&sn=ce053aeb3691b668004b00fe2210b089&chksm=fe693949c91eb05fef79b566b30c939d9417773fd0fa163714768f8632f2f84309eabeb11599&token=183779823&lang=zh_CN#rd)
+- []()
 
 
 #### 算法
@@ -47,8 +48,11 @@
 #### 开发工具 & Devops
 - [Git服务器搭建](https://zhuanlan.zhihu.com/p/427047013)
 - [git使用规范](https://segmentfault.com/a/1190000037783650)
+- [安装Git教程](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137735&idx=1&sn=adb5a99a571f867274678939f5bcd29b&chksm=fe6939bcc91eb0aa7e53191afcca63e6c753915c410e5c9afc4e1729370017111ec5a8d698f5&token=183779823&lang=zh_CN#rd)
 
 #### 前端通天塔
+- [编程环境　Visual Studio Code](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137773&idx=1&sn=84046ee62cd17f067989e4da5db3d3f8&chksm=fe693996c91eb080020854a5a7327dda49a02b54f82845a4d209bf7fc35fbbe11e775e9eaed3&token=183779823&lang=zh_CN#rd)
+- [【前端】25种实用的前端开发技巧总结](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137816&idx=1&sn=cfe24af6020d56b375a81f5771806a2b&chksm=fe693963c91eb075acdf443b0819a211e722051a481417d33fab0942ebaa67330a7b22d831af&token=183779823&lang=zh_CN#rd)
 - [前端你需要学什么？ 国内前端团队的技术栈统计](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485296&idx=1&sn=03907796805e11027f1e8a2e7db29519&chksm=cf700326f8078a30d16d25c2238c30d47a5d34a8b84d3234bff6ce621ab3b5917f1000a05fbf&token=328743535&lang=zh_CN#rd)
 - [【10分钟教程】制作一个简单canvas小游戏](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485220&idx=1&sn=685c58e230c3c4e03e1c24a1bd247b2e&chksm=cf700372f8078a64806216350d679476b91cef3599142ccc7e8c314f50373105b4b6146ac859&token=328743535&lang=zh_CN#rd)
 - [游戏编程 | Three.js初窥](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485197&idx=1&sn=589fd7b704b18c0dcf39eeb4ff613027&chksm=cf70035bf8078a4d2738396fbfcfb8a6a1a542e99dc69f0d0e7a39202271e0c20a41c9aad8c4&token=328743535&lang=zh_CN#rd)
