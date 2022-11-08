@@ -166,6 +166,7 @@
 - [【2016注会】税法知识点](https://zhuanlan.zhihu.com/p/22175923)
 
 - [2019美国经济概览](https://zhuanlan.zhihu.com/p/90295035)
+- [经济学流派](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137447&idx=1&sn=57c6b47a11b7fc238614f6ce25b1762b&chksm=fe693adcc91eb3cad36a5f5ae7f8466d193feafda06cee1a7dfacac5fe549bafc9133070edd4&token=183779823&lang=zh_CN#rd)
 
 ### 管理与个人精进
 
