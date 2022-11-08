@@ -49,6 +49,7 @@
 - [Git服务器搭建](https://zhuanlan.zhihu.com/p/427047013)
 - [git使用规范](https://segmentfault.com/a/1190000037783650)
 - [安装Git教程](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137735&idx=1&sn=adb5a99a571f867274678939f5bcd29b&chksm=fe6939bcc91eb0aa7e53191afcca63e6c753915c410e5c9afc4e1729370017111ec5a8d698f5&token=183779823&lang=zh_CN#rd)
+- [Sublime text 3同时快速编辑多行内容](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137298&idx=3&sn=d9e64a8e32aca8790d32bfc721eb56fb&chksm=fe693b69c91eb27fa60d87c85b870ee5282ab06192291cdcc4d17b8200693b768491b386c497&token=183779823&lang=zh_CN#rd)
 
 #### 前端通天塔
 - [编程环境　Visual Studio Code](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137773&idx=1&sn=84046ee62cd17f067989e4da5db3d3f8&chksm=fe693996c91eb080020854a5a7327dda49a02b54f82845a4d209bf7fc35fbbe11e775e9eaed3&token=183779823&lang=zh_CN#rd)
