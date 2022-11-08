@@ -80,7 +80,8 @@
 - [golang 复合数据类型](https://zhuanlan.zhihu.com/p/569039279)
 
 #### Java架构学习之路（基础、容器、并发、JVM、Spring、SpringBoot、SprintCloud、数据库、搜索引擎、系统）
-- [Java StringUtils.isBlank()]([https://zhuanlan.zhihu.com/p/532253710](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485648&idx=1&sn=dab97dde72708fe631d1d20971ebc8a2&chksm=cf700c86f80785902b885d94ee16b286133f9725b622bba7b9d1055237a181cda32f33aa58c0&token=328743535&lang=zh_CN#rd)
+- [Java StringUtils.isBlank](https://zhuanlan.zhihu.com/p/532253710](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485648&idx=1&sn=dab97dde72708fe631d1d20971ebc8a2&chksm=cf700c86f80785902b885d94ee16b286133f9725b622bba7b9d1055237a181cda32f33aa58c0&token=328743535&lang=zh_CN#rd)
+- [Java后端/分布式系统工程师进阶指南](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485732&idx=1&sn=f8d3904467231da69a27ae4a3cbe6861&chksm=cf700d72f8078464520013a51ed4b2376bd9c5c8aa76ec5e5a674ccd2dbaa6b60b6bf0f8941f&token=1587337100&lang=zh_CN#rd)
 - [【Java基础】多态](https://zhuanlan.zhihu.com/p/101786869)
 - [Java集合常见知识点(一)](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485320&idx=1&sn=fb37f946ea7493696c5524e43c2cb6b3&chksm=cf7003def8078ac813fb9ab34963044919bb82074291893ba8128488ec76e2fda345895efe72&token=328743535&lang=zh_CN#rd)
 - [Java集合常见知识点(二)](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485333&idx=1&sn=4a311bf4ce96931b28c432e7865b4dab&chksm=cf7003c3f8078ad507e9fb42502cb037e86a7d866c66e90162dc402bb776d9321174886baf04&token=328743535&lang=zh_CN#rd)
