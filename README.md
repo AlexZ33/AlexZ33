@@ -89,6 +89,7 @@
 - [【容器技术】Windows Docker 安装](https://mp.weixin.qq.com/s/Q50xXgu1wrNDBWofb0RPTg)
 - [「容器技术」Docker操作手册（一）](https://zhuanlan.zhihu.com/p/421853963)
 - [golang 复合数据类型](https://zhuanlan.zhihu.com/p/569039279)
+- [golang 接口](https://zhuanlan.zhihu.com/p/583754858)
 
 #### Java架构学习之路（基础、容器、并发、JVM、Spring、SpringBoot、SprintCloud、数据库、搜索引擎、系统）
 - [Java StringUtils.isBlank](https://zhuanlan.zhihu.com/p/532253710](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485648&idx=1&sn=dab97dde72708fe631d1d20971ebc8a2&chksm=cf700c86f80785902b885d94ee16b286133f9725b622bba7b9d1055237a181cda32f33aa58c0&token=328743535&lang=zh_CN#rd)
