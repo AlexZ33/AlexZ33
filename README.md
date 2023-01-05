@@ -75,6 +75,7 @@
 - [Nodejs学习记录: crypto模块](https://segmentfault.com/a/1190000022318731)
 - [JS按位非(~)运算符与~~运算符](https://zhuanlan.zhihu.com/p/55240159)
 - [尾调用](https://zhuanlan.zhihu.com/p/581181946)
+- [函数式编程](https://zhuanlan.zhihu.com/p/551605596)
 
 #### Golang编程指北（go语言、中间件、消息队列、web、数据库、容器、云原生、微服务）
 
