@@ -24,6 +24,8 @@
 
 #### 计算机基础
 
+[什么是堆? 什么是栈？](https://zhuanlan.zhihu.com/p/101531768)
+
 [【计算机基础】进程与线程](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485550&idx=1&sn=dfb6b0dca9bf2e466efadbb644257971&chksm=cf700c38f807852ef1999fc88454c8c5009518018c0f7b1c454a5e9e41eb9a38d0a120d8bef6&token=328743535&lang=zh_CN#rd)
 
 - [【计算机操作系统 】 内存管理和设备管理](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485277&idx=1&sn=a0341ddedec165dc124fef58c1632978&chksm=cf70030bf8078a1dff6625b302a241f8235226c2910ef49c4df9acf7dcb1ca7b7a6fab2d7441&token=328743535&lang=zh_CN#rd)
