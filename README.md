@@ -98,7 +98,7 @@
 - [golang访问数据库MySQL](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485717&idx=2&sn=fda312d087447900c35d24ce143c5a59&chksm=cf700d43f8078455818c4975c978b1e8a27daf93d952dd99a294323b472151db206b280317f6&token=328743535&lang=zh_CN#rd)
 
 - [【柚子编程俱乐部】在 Golang 中查找变量类型的不同方法](https://zhuanlan.zhihu.com/p/501300715)
-- [Golang package atomic库]([https://zhuanlan.zhihu.com/p/577391361](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485657&idx=1&sn=5cfa69cfe374d8d3ffec926816e87d5d&chksm=cf700c8ff8078599bc0f0a393196400a27a79afa79b203e2d541e991e54c9404bf6ff1a7d91b&token=328743535&lang=zh_CN#rd))
+- [Golang package atomic库](https://zhuanlan.zhihu.com/p/577391361](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485657&idx=1&sn=5cfa69cfe374d8d3ffec926816e87d5d&chksm=cf700c8ff8078599bc0f0a393196400a27a79afa79b203e2d541e991e54c9404bf6ff1a7d91b&token=328743535&lang=zh_CN#rd)
 
 - [Golang panic用法](https://zhuanlan.zhihu.com/p/373653492)
 - [为什么 http.Client{} 以 & 为前缀？](https://zhuanlan.zhihu.com/p/547191507)
