@@ -17,6 +17,8 @@
 
 
 ### 编程相关
+#### SEO优化
+[站点SEO培训 - 打开SEO大门](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485824&idx=1&sn=e370e33d1fe6f5c7e9480829f5b7212c&chksm=cf700dd6f80784c0901ece983f860454b39b7ae188ab85af572ab8143b24bf9e86831272045c&token=1135928759&lang=zh_CN#rd)
 
 #### 技术书推荐
 
