@@ -83,6 +83,25 @@
 - [尾调用](https://zhuanlan.zhihu.com/p/581181946)
 - [函数式编程](https://zhuanlan.zhihu.com/p/551605596)
 
+- [Node学习记录：事件](https://segmentfault.com/a/1190000009490349)
+
+- [Node.js学习记录: 理解Buffer](https://segmentfault.com/a/1190000009248664)
+
+- [Node.js学习记录： stream](https://segmentfault.com/a/1190000009254441)
+
+- [Node.js学习记录： 异步I/O](https://segmentfault.com/a/1190000009300468)
+
+- [Nodejs学习记录：express](https://segmentfault.com/a/1190000009308075)
+
+- [Nodejs学习记录：异步编程](https://segmentfault.com/a/1190000009315609)
+
+- [Node学习记录： 写脚本工具](https://segmentfault.com/a/1190000009394503)
+- [Node学习记录： 图片爬虫](https://segmentfault.com/a/1190000009406775)
+
+- [Node学习记录：网络编程](https://segmentfault.com/a/1190000009469920)
+
+- [Nodejs学习记录: 制作命令行工具](https://segmentfault.com/a/1190000009482931)
+
 #### Golang编程指北（go语言、中间件、消息队列、web、数据库、容器、云原生、微服务）
 
 - [golang 接口](https://zhuanlan.zhihu.com/p/583754858)
