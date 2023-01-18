@@ -20,6 +20,8 @@
 #### SEO优化
 [站点SEO培训 - 打开SEO大门](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485824&idx=1&sn=e370e33d1fe6f5c7e9480829f5b7212c&chksm=cf700dd6f80784c0901ece983f860454b39b7ae188ab85af572ab8143b24bf9e86831272045c&token=1135928759&lang=zh_CN#rd)
 
+[站点SEO培训 -- 关键词优化](https://mp.toutiao.com/profile_v4/graphic/preview?pgc_id=7189814235197653537)
+
 #### 技术书推荐
 
 [值得一看的技术类书籍列表](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485220&idx=7&sn=a02367d65059bf4bf8299b56c40d8f22&chksm=cf700372f8078a640419b73dc283e49dc2ee6de2811780588feebc7c3f2d983de8d22745bc98&token=328743535&lang=zh_CN#rd)
