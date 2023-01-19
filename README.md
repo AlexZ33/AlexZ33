@@ -73,6 +73,8 @@
 - [Three.js 加载STL模型](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485197&idx=4&sn=f202e5270946767629c637ef795da6b2&chksm=cf70035bf8078a4d4af4598cd3738f20eb687d1e32438909b4890f83958a864994c0d2f8f04c&token=328743535&lang=zh_CN#rd)
 - [ 一行代码实现小米LOGO变更](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485197&idx=5&sn=4f5ec3ca2019568ab53812c83909f3d2&chksm=cf70035bf8078a4dc0a1654e239aec5afd488cb23813130baef5b545a9391d03e9f78bbd056b&token=328743535&lang=zh_CN#rd)
 - [canvas绘制移动端写字面板](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485197&idx=8&sn=b29884fcc519b08632473ba1b81714f5&chksm=cf70035bf8078a4d366982e9e265339a01c074ca72ade0442ad17f1d5cfdc0b048a72303e72a&token=328743535&lang=zh_CN#rd)
+
+- [【前端动画】requestAnimationFrame方法与动画](https://www.toutiao.com/article/7190252252190491139/)
 - [15个必知的Vue自定义指令插件](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485197&idx=7&sn=7f8f1f82e77da4b806dca56790bbaf80&chksm=cf70035bf8078a4dfacefa2a954b4908be3988738a98ef0bb8e2d9b3498b7bd503df6fb6eb21&token=328743535&lang=zh_CN#rd)
 - [Vue源码阅读](https://segmentfault.com/a/1190000018675263)
 - [学习 typescript 编译原理之解析器](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485185&idx=1&sn=88ef8e8dd40dcf6995e7f0e4e3b618ec&chksm=cf700357f8078a412b708e0c128c1139c194c0ab43a2fac9c7b5eed93383c7c8a04de812bb94&token=328743535&lang=zh_CN#rd)
