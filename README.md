@@ -235,6 +235,8 @@
 
 - [如何写年终总结](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137821&idx=1&sn=180479e6ebf54f394062d631ec5cde70&chksm=fe693966c91eb070c84c22cabf293e3e399e211f1a5e947bbdd565f025734e1c89b9c52f0be9&token=1856620651&lang=zh_CN#rd)
 
+- [工作分配RACI矩阵](https://zhuanlan.zhihu.com/p/602544273?)
+
 
 ###  业务知识
 - [互联网运营: 付费广告投放](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137733&idx=1&sn=8ce31007f2211626711c7602df18b392&chksm=fe6939bec91eb0a8e228c81d5191dd1ed0c5329c05e01ff3fb0fce5dad0f4f8607c57bbca2ed&token=1856620651&lang=zh_CN#rd)
