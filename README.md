@@ -161,6 +161,7 @@
 - [MySQL创建用户与授权](https://zhuanlan.zhihu.com/p/527056853)
 - [查看mysql用户权限](https://zhuanlan.zhihu.com/p/522621034)
 - [DB2学习记录：基础部分](https://segmentfault.com/a/1190000011979463?_ea=112874297)
+- [PostGreSQL学习笔记](https://zhuanlan.zhihu.com/p/54117904?)
 
 #### 数学 & 统计 & Python数据分析 & 数据科学
 
