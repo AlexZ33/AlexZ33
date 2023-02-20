@@ -61,6 +61,7 @@
 - [nginx配置之location](https://www.toutiao.com/article/7189905708714918400/)
 
 #### 前端通天塔
+- [前端性能指标LCP(Largest Contentful Paint )](https://www.toutiao.com/item/7202143869608641036/)
 - [编程环境　Visual Studio Code](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137773&idx=1&sn=84046ee62cd17f067989e4da5db3d3f8&chksm=fe693996c91eb080020854a5a7327dda49a02b54f82845a4d209bf7fc35fbbe11e775e9eaed3&token=183779823&lang=zh_CN#rd)
 - [【前端】25种实用的前端开发技巧总结](https://mp.weixin.qq.com/s?__biz=MzI1MjA2NzQ3Ng==&mid=2457137816&idx=1&sn=cfe24af6020d56b375a81f5771806a2b&chksm=fe693963c91eb075acdf443b0819a211e722051a481417d33fab0942ebaa67330a7b22d831af&token=183779823&lang=zh_CN#rd)
 - [前端你需要学什么？ 国内前端团队的技术栈统计](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485296&idx=1&sn=03907796805e11027f1e8a2e7db29519&chksm=cf700326f8078a30d16d25c2238c30d47a5d34a8b84d3234bff6ce621ab3b5917f1000a05fbf&token=328743535&lang=zh_CN#rd)
