@@ -153,6 +153,7 @@
 - [Java集合常见知识点(二)](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485333&idx=1&sn=4a311bf4ce96931b28c432e7865b4dab&chksm=cf7003c3f8078ad507e9fb42502cb037e86a7d866c66e90162dc402bb776d9321174886baf04&token=328743535&lang=zh_CN#rd)
 - [Java 与Python中数据结构比较](https://zhuanlan.zhihu.com/p/422654858)
 - [JAVA高频实用知识点笔记](https://mp.weixin.qq.com/s?__biz=Mzg4MDY5NDU4NQ==&mid=2247485168&idx=1&sn=039ac26a2d016b8c542388bbf452a1dc&chksm=cf7002a6f8078bb0c788aba8c4caa58e449328b5d70979c4120de700c5134f05aeff3fd9da0f&token=328743535&lang=zh_CN#rd)
+- [Java8特性 - Lambda表达式与函数式编程（一）](https://www.toutiao.com/article/7218064297715401272/)
 
 #### linux学习与源码分析
 - [Linux 各目录的作用](https://zhuanlan.zhihu.com/p/422654168)
