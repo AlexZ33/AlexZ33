@@ -110,6 +110,8 @@
 
 - [Nodejs学习记录: 制作命令行工具](https://segmentfault.com/a/1190000009482931)
 
+- [PM2日志管理pm2-logrotate](https://www.toutiao.com/article/7206121884549808643/)
+
 #### Golang编程指北（go语言、中间件、消息队列、web、数据库、容器、云原生、微服务）
 
 - [golang 接口](https://zhuanlan.zhihu.com/p/583754858)
