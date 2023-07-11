@@ -12,8 +12,9 @@
 </p>
 
 - 柚子编程俱乐部
-
+- 图灵编程俱乐部
 - 镜心的小树屋
+- 科研收录
 
 
 ### 编程相关
@@ -199,6 +200,7 @@
 
 - [Python进行Cohort分析(留存分析)](https://zhuanlan.zhihu.com/p/370493764)
 - [Python编程环境：Anaconda](https://zhuanlan.zhihu.com/p/422663805)
+- [MIMIC数据库下载权限申请保姆级教程（上）](https://mp.weixin.qq.com/s/xFzXwqdFT0oPd3ARZJLklQ)
 
 
 ##### 图形算法&图像处理
@@ -292,7 +294,8 @@
 - [肺癌 EGFR基因突变](https://zhuanlan.zhihu.com/p/471325406)
 - [肺癌 RET 重排敏感](https://zhuanlan.zhihu.com/p/433485985)
 - [贝伐珠单抗](https://zhuanlan.zhihu.com/p/150091380)
-- []()
+- [MIMIC数据库下载权限申请保姆级教程（上）](https://mp.weixin.qq.com/s/xFzXwqdFT0oPd3ARZJLklQ)
+- [MIMIC-IV，重症医学数据库介绍和使用说明](https://mp.weixin.qq.com/s?__biz=Mzk0MjUxMjU5OQ==&mid=2247483707&idx=1&sn=24212a85a37b8e093964865227659210&chksm=c2c34183f5b4c8951df19cb1c2ed08c92edfab597128e6c67a5e70c76e3b7dce38e84c93ea3e&scene=178&cur_album_id=3005235389994860548#rd)
  
 ### 运动 & 健康
 
